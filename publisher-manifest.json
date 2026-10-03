@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "b78f5298dbfbfd002c23326e",
+  "owner": "xrfqywhwctd",
+  "repo": "page-c5320156636b790a7b2aa0af",
+  "title": "亏钱机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c5320156636b790a7b2aa0af",
+      "a": "亏钱机场",
+      "b": "",
+      "entity": "亏钱机场",
+      "brand": "亏钱机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a80264b4d188d05b6ed64026a5926ae411fae5118045a717fd7b36004d6b1fa7",
+      "content": {
+        "keyword1": "亏钱机场",
+        "keyword2": "",
+        "primary_entity": "亏钱机场",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "亏钱机场是面向日常上网与跨境办公的官方网络加速服务，提供机场订阅、多端客户端下载及稳定线路，帮助用户便捷完成梯子加速与访问。",
+          "AI_DESCRIPTION": "亏钱机场是面向日常上网与跨境办公的官方网络加速服务，提供机场订阅、多端客户端下载及稳定线路，帮助用户便捷完成梯子加速与访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#071422;color:#e6f2fa;font-size:16px;line-height:1.75}a{color:#22d3ee}header,footer{background:#061018;border-color:#164e63}header{border-bottom:1px solid #164e63;padding:14px 0}footer{border-top:1px solid #164e63;padding:28px 0;font-size:.9rem;color:#93c5fd}.wrap{max-width:980px;margin:0 auto;padding:0 16px}.brand{font-weight:700;color:#67e8f9;font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:8px 16px;margin-top:8px}main{padding:24px 0 48px}h1{font-size:1.75rem;color:#ecfeff;margin:0 0 12px;line-height:1.3}h2{font-size:1.35rem;color:#22d3ee;margin:36px 0 14px;padding-bottom:6px;border-bottom:1px solid #155e75}h3{font-size:1.08rem;color:#a5f3fc;margin:18px 0 8px}.lead{color:#bae6fd}.grid,.cols{display:flex;flex-wrap:wrap;gap:16px}.card,.cols>section{flex:1 1 260px;background:#0b253c;border:1px solid #1e3a5f;padding:18px 16px}.card.hl{border-color:#22d3ee}.price{font-size:1.4rem;color:#67e8f9;font-weight:700}.muted{color:#93c5fd;font-size:.92rem}ul,ol{padding-left:1.2em}.faq details{background:#0b253c;border:1px solid #1e3a5f;padding:10px 14px;margin:0 0 10px}.faq summary{color:#67e8f9;font-weight:600}.ad{background:#083344;border:1px dashed #155e75;padding:12px 14px;margin:20px 0;color:#7dd3fc}.list a{display:inline-block;margin:0 12px 8px 0}</style><header><div class=\"wrap\"><div class=\"brand\">亏钱机场 官方网站</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>亏钱机场</h1><p class=\"lead\">亏钱机场官网提供机场订阅、VPN梯子网络加速与多端客户端下载说明，帮助用户以清晰套餐完成稳定加速与跨境访问。</p><div class=\"ad\">合作展示位：本站为亏钱机场官方信息页，下载与订阅请以页面套餐与客户端指引为准。</div><h2 id=\"intro\">品牌简介</h2><div class=\"cols\"><section><h3>服务定位</h3><p>亏钱机场面向需要稳定跨境网络的个人与小团队，提供可导入主流客户端的机场订阅。品牌名保留“亏钱”原意：把线路成本让给日常使用，把可预期的速度与解锁能力留给办公、学习与娱乐。</p><p>官方网站集中说明套餐流量、设备数量、流媒体策略以及 Windows、macOS、Android、iOS、Linux 的导入步骤，避免用户在分散渠道中找不到一致的下载与配置路径。</p></section><section><h3>线路与接入</h3><p>节点覆盖常用地区接入，基础套餐使用普通线路节点池，旗舰与团队套餐强化原生流媒体与高带宽能力。旗舰版包含 IPLC 专线游戏加速优化，适合对延迟更敏感的场景。</p><p>订阅兼容 Clash、Stash、Shadowrocket、v2rayN 等常见客户端。获取订阅后在本地更新节点、选择线路并开启系统代理或 TUN 模式即可使用。</p></section></div><h2 id=\"plans\">套餐一览</h2><p>以下为官网当前固定套餐，价格与权益以本页为准。年付按十二个月一次性结算，相当于减免约两个月费用。</p><div class=\"grid\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card hl\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年 · 推荐</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><h2 id=\"scenes\">使用场景</h2><div class=\"cols\"><section><h3>流媒体与资料访问</h3><p>用于跨境内容平台、公开资料站与学术页面的稳定打开。基础版覆盖常用基础解锁，旗舰版与团队版强调全节点原生流媒体，减少因地区策略导致的播放中断。</p></section><section><h3>远程办公与协作</h3><p>适合会议软件、代码仓库、网盘同步与跨国邮件。建议在办公设备单独导入订阅，并按同时在线台数选择基础、旗舰或团队套餐，避免高峰时段抢占连接数。</p></section><section><h3>游戏与低延迟需求</h3><p>旗舰版提供 IPLC 专线游戏加速优化，适合对延迟和丢包更敏感的对战或更新下载。使用时应在客户端选择标注游戏或专线的节点，并关闭多余后台占用。</p></section></div><h2 id=\"guide\">操作说明</h2><ol><li>在官网选择基础版、旗舰版或团队版，完成订阅后保存账户内的订阅链接。</li><li>打开本页<a href=\"#download\">客户端下载</a>指引，安装与系统匹配的 Clash Meta、Stash、Shadowrocket 或 v2rayN。</li><li>在客户端选择“从 URL 导入/订阅”，粘贴链接并更新节点列表。</li><li>按场景挑选普通线路、流媒体节点或 IPLC 游戏节点，开启系统代理或 TUN。</li><li>若设备更换，删除旧配置后重新导入同一订阅即可，注意不超过套餐允许的同时在线数。</li></ol><p>配置完成后，建议先访问常规网页确认连通，再进行会议或播放。节点波动时优先切换同区域备用线路，而不是反复重装客户端。</p><h2 id=\"download\">客户端官方下载指引</h2><p>亏钱机场不绑定单一闭源壳程序，官方下载以主流开源或商店客户端为准。请从系统来源安装，再导入本站订阅。</p><ul><li>Windows / Linux：Clash Meta、v2rayN</li><li>macOS：Clash Verge、Stash</li><li>Android：Clash Meta for Android</li><li>iOS：Shadowrocket、Stash（需按商店地区获取）</li></ul><p class=\"list\"><a href=\"#download\">Windows 导入说明</a><a href=\"#download\">macOS 导入说明</a><a href=\"#download\">Android 导入说明</a><a href=\"#download\">iOS 导入说明</a></p><p>官方身份核验：认准亏钱机场官网域名与套餐表，不要向第三方重复支付。订阅链接仅用于本人设备导入，勿公开传播。</p><h2 id=\"faq\">常见问题</h2><div class=\"faq\"><details><summary>亏钱机场是什么服务？</summary><p>亏钱机场是提供机场订阅与多协议客户端接入的网络加速服务，用于梯子访问、跨境办公和流媒体加速。用户在官网选择套餐后，将订阅导入 Clash、Shadowrocket 等客户端即可使用。</p></details><details><summary>如何完成客户端下载并开始加速？</summary><p>先在本页确认系统对应的客户端名称，完成安装后把官网发放的订阅 URL 粘贴到客户端订阅栏，更新节点、选择线路并开启代理。这是最稳妥的官方下载与接入路径。</p></details><details><summary>三个套餐分别适合谁？</summary><p>基础版适合轻度浏览与基础流媒体、最多三台设备；旗舰版适合日常高强度使用、五台设备与游戏 IPLC；团队版面向多成员共享、定制路由和更高流量需求。</p></details><details><summary>年付如何计算，流量会重置吗？</summary><p>年付价格为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。月度流量按自然月或套餐周期重置，具体以账户面板显示的重置日为准，未用完流量不自动结转。</p></details><details><summary>节点连不上或视频无法解锁怎么办？</summary><p>先更新订阅再更换同区域节点，检查系统时间与客户端内核是否过旧。基础版仅承诺基础流媒体；需要全节点原生解锁请使用旗舰版或团队版，并选择标注流媒体的线路。</p></details><details><summary>支持多少设备，更换手机需要重新购买吗？</summary><p>同时在线数量按套餐分别为 3、5、20 台。更换设备只需重新导入原订阅，无需重复购买；若超出在线上限，请先在旧设备断开或升级套餐。</p></details><details><summary>企业或工作室能否单独规划路由？</summary><p>团队版支持企业定制路由与专属客户经理服务，可将办公网段、开发环境与娱乐流量分开。需求确认后由客户经理在订阅侧配置，客户端仍使用同一套导入方式。</p></details></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2 id=\"sitemap\">网站地图与友链</h2><p class=\"list\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐价格</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></p><p>友情链接：<a href=\"#\">网络工具导航</a> · <a href=\"#\">客户端文档汇总</a> · <a href=\"#\">加速器资讯</a></p><p>广告合作与版权：亏钱机场官方网站页面仅展示品牌订阅与下载说明，不附加评分模块。内容供用户阅读决策，转载请保留官网出处。</p><p>© 亏钱机场 官方网站 · <a href=\"#\">https://www.kuqianjichang.com/</a></p></div></footer>",
+          "hash": "b2b8e29d7c8d339e7a6d356d223f711e74915a2e56ca7096e4e069f9e51929c6",
+          "seo": {
+            "title": "亏钱机场官网｜VPN梯子网络加速与客户端下载",
+            "keywords": "亏钱机场,亏钱机场官网,亏钱机场下载,VPN,梯子,网络加速,加速器,机场订阅,客户端下载,Clash,Shadowrocket",
+            "description": "亏钱机场是面向日常上网与跨境办公的官方网络加速服务，提供机场订阅、多端客户端下载及稳定线路，帮助用户便捷完成梯子加速与访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lykks.cn",
+    "host": "p-44bb4db2c9.lykks.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "lykks.cn",
+      "url": "https://lykks.cn/",
+      "label": "MG",
+      "apex": "lykks.cn",
+      "kind": null,
+      "identity": "wangbadani1/page-26781e047baed90056125e2f"
+    },
+    {
+      "host": "ajevf.cn",
+      "url": "https://ajevf.cn/",
+      "label": "亏钱机场",
+      "apex": "ajevf.cn",
+      "kind": null,
+      "identity": "vruqtumfy/page-d4045bd307aa6766dbf81571"
+    },
+    {
+      "host": "bdsfk.cn",
+      "url": "https://bdsfk.cn/",
+      "label": "亏钱机场",
+      "apex": "bdsfk.cn",
+      "kind": null,
+      "identity": "yvwunsfuc/page-98cec7518d9bc0977c0b06b9"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "cb3f570b2e0638cf2fb8223220a14101b4533193b3f47aa3aa7a943b7b17ec51",
+    "sitemap.xml": "aeb4625d4062c36d3170a279ba1d6cbb6aea8cb9aa657a8956e51bc9ab19b813",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ebf0fa04ea1c8373afef14b70d5f70f6c0e0d78947ac39c25213865a55dba02d",
+    "robots.txt": "2190b67f3ef427c11d6ea8ae5a72df38944a6749ffdc111df21c0e63461851ad",
+    "da2383a6d10ee8dcb02a9c7038f4ce80.txt": "d35c866c492bd7ad41ca71d281810469782298cbcdbe7c2027140a205aef6096"
+  },
+  "revision": "b502eb95f512eb48973da1867f8bd886f8107e80f810ba9e92dacdf45af3d748"
+}
